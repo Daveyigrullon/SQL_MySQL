@@ -1,0 +1,8 @@
+
+
+SELECT * FROM empleados WHERE edad BETWEEN 20 AND 35; 
+
+SELECT * FROM empleados WHERE NOT edad BETWEEN 20 AND 35; 
+
+
+SELECT * FROM empleados WHERE salario BETWEEN 2000 AND 30000;
